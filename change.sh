@@ -1,1 +1,1 @@
-sudo vi /etc/NetworkManager/NetworkManager/conf
+sudo vi /etc/NetworkManager/NetworkManager.conf
